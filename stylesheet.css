@@ -415,13 +415,13 @@ h1{
 }
 .footer-midle{
   position: absolute;
-  top:1950px;
+  top:1800px;
   right:50%;
 
 }
 .footer-right{
   position: absolute;
-  top:1950px;
+  top:1800px;
   right:10px;
   color:black;
 }

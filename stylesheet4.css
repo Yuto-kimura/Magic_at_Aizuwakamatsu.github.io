@@ -359,7 +359,7 @@ position:relative;
 .border_grey{
   border-top:1px solid #a9a9a9;
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .border{
   border-top:1px solid black;
@@ -373,13 +373,13 @@ position:relative;
 }
 .footer-midle{
   position: absolute;
-  top:2000px;
+  /* top:2000px; */
   right:50%;
 
 }
 .footer-right{
   position: absolute;
-  top:2000px;
+  /* top:2000px; */
   right:10px;
   color:black;
 }
